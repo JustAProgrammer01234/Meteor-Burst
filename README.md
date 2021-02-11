@@ -6,5 +6,6 @@ A game made with pygame.
 
 2.Unfortunately I deleted the IMGS directory because the pictures aren't mine.
 
-#What the game is all about
+# What the game is all about
+
 It is a game that is similar to a task in among us where you have to shoot the meteors.
